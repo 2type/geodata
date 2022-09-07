@@ -1,0 +1,11 @@
+{
+  "name": "@2type/geodata",
+  "version": "0.0.1",
+  "description": "china geo data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
