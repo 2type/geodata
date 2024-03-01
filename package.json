@@ -1,6 +1,6 @@
 {
   "name": "@2type/geodata",
-  "version": "0.0.1",
+  "version": "24.3.1",
   "description": "china geo data",
   "main": "index.js",
   "scripts": {
